@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+body {
+  background-color: #0de4f6;
+}
+
+#output {
+  font-size: 500%;
+  color: white;
+}
+
+#title {
+  font-size: 250%;
+  color: white;
+}
